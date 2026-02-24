@@ -5,7 +5,7 @@ Dodatkowe cele:
 
 - analiza odporności modelu na szum losowy (5–20%),
 - ocena wpływu kwantyzacji INT8 na dokładność,
-- pomiar zużycia zasobów (RAM, Flash, CPU).
+- pomiar zużycia zasobów (RAM, CPU).
 
 # 2. Dataset
 ## 2.1 Struktura rekordu
