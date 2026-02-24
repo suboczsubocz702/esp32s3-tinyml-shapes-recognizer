@@ -1,0 +1,8 @@
+# modele
+*.h5
+*.tflite
+*.cc
+
+# datasety
+dataset/
+*.csv
