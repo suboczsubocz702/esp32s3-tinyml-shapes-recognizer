@@ -30,7 +30,7 @@ ESP
 
 ## 2.3 Balans klas
 - 3 klasy
-- równy rozkład
+- Umiarkowanie równy rozkład
 - 15 000 próbek łącznie
 
 # 3. Architektura modelu
